@@ -1,4 +1,5 @@
-<img width="1321" alt="Screenshot 2023-10-04 at 12 49 37 AM" src="https://github.com/AbhiRam162105/CozyStayProject/assets/112550626/980b759a-5b2d-42b2-8b49-32f18ba55a02"># CozyStayProject
+<img width="1440" alt="Screenshot 2023-10-04 at 12 49 45 AM" src="https://github.com/AbhiRam162105/CozyStayProject/assets/112550626/530fe16b-7424-47b2-a1b3-3e5ddaba22d6">
+# CozyStayProject
 ----
 Project Description: Alpine Hotel Booking Website
 
